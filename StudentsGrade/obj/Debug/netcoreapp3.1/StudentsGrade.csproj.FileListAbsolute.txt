@@ -1,0 +1,11 @@
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\StudentsGrade\StudentsGrade\bin\Debug\netcoreapp3.1\StudentsGrade.exe
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\StudentsGrade\StudentsGrade\bin\Debug\netcoreapp3.1\StudentsGrade.deps.json
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\StudentsGrade\StudentsGrade\bin\Debug\netcoreapp3.1\StudentsGrade.runtimeconfig.json
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\StudentsGrade\StudentsGrade\bin\Debug\netcoreapp3.1\StudentsGrade.runtimeconfig.dev.json
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\StudentsGrade\StudentsGrade\bin\Debug\netcoreapp3.1\StudentsGrade.dll
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\StudentsGrade\StudentsGrade\bin\Debug\netcoreapp3.1\StudentsGrade.pdb
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\StudentsGrade\StudentsGrade\obj\Debug\netcoreapp3.1\StudentsGrade.csprojAssemblyReference.cache
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\StudentsGrade\StudentsGrade\obj\Debug\netcoreapp3.1\StudentsGrade.AssemblyInfoInputs.cache
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\StudentsGrade\StudentsGrade\obj\Debug\netcoreapp3.1\StudentsGrade.AssemblyInfo.cs
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\StudentsGrade\StudentsGrade\obj\Debug\netcoreapp3.1\StudentsGrade.dll
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\StudentsGrade\StudentsGrade\obj\Debug\netcoreapp3.1\StudentsGrade.pdb
